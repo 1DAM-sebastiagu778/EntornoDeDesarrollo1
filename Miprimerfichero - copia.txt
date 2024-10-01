@@ -1,6 +1,2 @@
 Estoy creando un fichero en el repositorio
 Lo estoy editando
-y ahora le 
-estoy metiendo
-cambios
-desde el local
